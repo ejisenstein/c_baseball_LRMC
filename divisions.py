@@ -1,7 +1,7 @@
 #American League
 import pickle
 
-ab_list = pickle.load(open("abbreviation_list.p", "rb"))
+ab_list = pickle.load(open("pickle_jar/abbreviation_list.p", "rb"))
 
 #ari, atl, bal, bos, chc, chw, cin, cle, col, det, hou, kcr, laa, lad, mia, mil, min, nym, nyy, oak, phi, pit, sdp, sea, sfg, stl, tbr, tex, tor, wsm           
 
